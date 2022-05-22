@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate on **C and python projects**
 
 - 📫 How to reach me **Discord : Alpha®#2242**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
