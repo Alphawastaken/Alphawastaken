@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on **A discord.py bot called athena.**
 
-- 🌱 I’m currently learning **C and python.Im also learning how to use mongo db and postgresql.**
+- 🌱 Im currently learning **C and python.
+  🌱 Im also learning how to use mongo db and postgresql.**
 
 - 👯 I’m looking to collaborate on **C and python projects**
 
