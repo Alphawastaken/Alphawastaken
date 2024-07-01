@@ -2,14 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphawastaken&label=Profile%20views&color=0e75b6&style=flat" alt="alphawastaken" /> </p>
 
-- 🔭 I’m currently working on **A discord.py bot called athena.**
 
 - 🌱 Im currently learning **C and python.
+- 
   🌱 Im also learning how to use mongo db and postgresql.**
 
 - 👯 I’m looking to collaborate on **C and python projects**
 
-- 📫 How to reach me **Discord : Alpha®#2242**
 <p align="left">
 </p>
 
