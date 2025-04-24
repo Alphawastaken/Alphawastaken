@@ -17,4 +17,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphawastaken&show_icons=true&locale=en&layout=compact" alt="alphawastaken" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphawastaken&" alt="alphawastaken" /></p>
