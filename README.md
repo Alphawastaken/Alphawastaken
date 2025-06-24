@@ -3,18 +3,18 @@
 </p>
 
 ### 👨‍💻 About Me
-I’m a self-proclaimed **professional bad-code writer**, currently leveling up my skills in:
+I’m a self‑proclaimed **professional bad‑code writer**, currently leveling up in:
 
-- 🔭 **C** & **Python** — deep diving into memory management & scripting  
-- 🛠 **MongoDB** & **PostgreSQL** — mastering both NoSQL and relational data stores  
+- 🔭 **C** & **Python** — diving into memory management & scripting  
+- 🛠 **MongoDB** & **PostgreSQL** — mastering both NoSQL and relational databases  
 
 Always open to creatively unpredictable projects… especially in C and Python! Let’s break things (and fix them).
 
 ---
 
 ### 🤝 What I’m Looking For
-- **Collaboration** in C/Python projects — from quirky CLI tools to database-driven apps  
-- **Mentorship** opportunities to refine terrible code into solid structure  
+- **Collaboration** on C/Python projects—from quirky CLI tools to database‑driven apps  
+- **Mentorship** to refine terrible code into solid structure  
 
 ---
 
@@ -37,18 +37,70 @@ Always open to creatively unpredictable projects… especially in C and Python! 
 ---
 
 ### 🚀 Fun & Dynamic Additions
-- **Visitor Counter**  
-  <img src="https://komarev.com/ghpvc/?username=alphawastaken&label=Profile+views&color=0e75b6&style=flat" alt="profile views"/>
-  
-- **Snake animation on your contribution graph**  
-  (Add this using GitHub Actions: snake gif from your contribution grid)
 
-- **Now Playing on Spotify**  
-  Embed dynamic song info with a Spotify card
+#### **Visitor Counter**  
+<img src="https://komarev.com/ghpvc/?username=alphawastaken&label=Profile+views&color=0e75b6&style=flat" alt="profile views"/>
 
 ---
 
-### 📫 Connect with Me
-<p align="center">
-  <a href="https://github.com/alphawastaken"><img alt="GitHub followers" src="https://img.shields.io/github/followers/alphawastaken?label=Follow&style=social"/></a>
-</p>
+#### 🐍 Snake Animation on Contribution Graph
+
+Workflow file: `.github/workflows/snake.yml`
+```yaml
+name: Snake generator
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "Update snake animation"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+</picture>
+name: Spotify status
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+jobs:
+  update-spotify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update Spotify status
+        uses: kittinan/spotify-github-profile@main
+        with:
+          client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+      - run: |
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+          git add README.md
+          git commit -m "Update Spotify status"
+          git push
+```
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re" alt="Spotify Now Playing" width="350"/>
+</a>
