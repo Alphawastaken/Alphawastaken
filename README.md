@@ -38,8 +38,6 @@ Always open to creatively unpredictable projects… especially in C and Python! 
 
 ### 🚀 Fun & Dynamic Additions
 
-#### **Visitor Counter**  
-<img src="https://komarev.com/ghpvc/?username=alphawastaken&label=Profile+views&color=0e75b6&style=flat" alt="profile views"/>
 
 #### 🏆 GitHub Trophies  
 <img src="https://github-profile-trophy.vercel.app/?username=alphawastaken&theme=flat&column=6&rank=SSS,SS,S,AAA,AA,A,B,C"/>
