@@ -3,7 +3,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I’m a self‑proclaimed **professional bad‑code writer**, currently leveling up in:
+I’m a undergraduate student in the University Of Athens, currently leveling up in:
 
 - 🔭 **C** & **Python** — diving into memory management & scripting  
 - 🛠 **MongoDB** & **PostgreSQL** — mastering both NoSQL and relational databases  
