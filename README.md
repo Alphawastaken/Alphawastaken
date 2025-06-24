@@ -78,29 +78,4 @@ jobs:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
 </picture>
-name: Spotify status
-on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
-jobs:
-  update-spotify:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Update Spotify status
-        uses: kittinan/spotify-github-profile@main
-        with:
-          client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-      - run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
-          git add README.md
-          git commit -m "Update Spotify status"
-          git push
-```
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=natemoo-re" alt="Spotify Now Playing" width="350"/>
-</a>
+
