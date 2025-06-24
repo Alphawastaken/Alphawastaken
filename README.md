@@ -51,11 +51,10 @@ Always open to creatively unpredictable projects… especially in C and Python! 
 
 ---
 
-#### 📊 Top Languages  
+#### ⏳ GitHub Streak Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphawastaken&layout=compact&langs_count=10&theme=default" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=alphawastaken&theme=default" alt="GitHub Streak" />
 </p>
-
 ---
 
 #### 🐍 Snake Animation on Contribution Graph
