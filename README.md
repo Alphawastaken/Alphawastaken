@@ -41,9 +41,21 @@ Always open to creatively unpredictable projects… especially in C and Python! 
 #### **Visitor Counter**  
 <img src="https://komarev.com/ghpvc/?username=alphawastaken&label=Profile+views&color=0e75b6&style=flat" alt="profile views"/>
 
-#### ✨ Profile Header  
+#### 🏆 GitHub Trophies  
+<img src="https://github-profile-trophy.vercel.app/?username=alphawastaken&theme=flat&column=6&rank=SSS,SS,S,AAA,AA,A,B,C"/>
+
+---
+
+#### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋+Hello+World,+I'm+Alpha&height=120" alt="header"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alphawastaken&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+#### 📊 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphawastaken&layout=compact&langs_count=10&theme=default" alt="Top Languages" />
 </p>
 
 ---
