@@ -1,58 +1,77 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋+Hello+World,+I'm+Alpha&height=120" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋+Hello,+I'm+Alpha!&height=120&fontAlign=50&fontAlignY=35&desc=Crafting+Code+with+C,+Python+and+Coffee&descAlign=50&descAlignY=70" alt="header"/>
 </p>
 
-### 👨‍💻 About Me
-I’m a undergraduate student in the University Of Athens, currently leveling up in:
-
-- 🔭 **C** & **Python** — diving into memory management & scripting  
-- 🛠 **MongoDB** & **PostgreSQL** — mastering both NoSQL and relational databases  
-
-Always open to creatively unpredictable projects… especially in C and Python! Let’s break things (and fix them).
-
----
-
-### 🤝 What I’m Looking For
-- **Collaboration** on C/Python projects—from quirky CLI tools to database‑driven apps  
-- **Mentorship** to refine terrible code into solid structure  
-
----
-
-### 🛠 Technologies & Tools
-<p align="left">
-  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img alt="Azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alphawastaken&show_icons=true&layout=compact)
-
----
-
-### 🚀 Fun & Dynamic Additions
-
-
-#### ⏳ GitHub Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alphawastaken&theme=default" alt="GitHub Streak" />
+  <a href="https://github.com/alphawastaken"><img src="https://komarev.com/ghpvc/?username=alphawastaken&style=flat-square&color=blue" alt="Profile views" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat-square&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
 </p>
+
 ---
 
-#### 🐍 Snake Animation on Contribution Graph
+### 🧠 About Me
 
-Workflow file: `.github/workflows/snake.yml`
+🎓 I'm an undergrad at **University of Athens**, hacking away at:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Alphawastaken/Alphawastaken/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Alphawastaken/Alphawastaken/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Alphawastaken/Alphawastaken/output/github-snake.svg" />
-</picture>
+- 🔧 Low-level & systems programming in **C**  
+- 🐍 Practical scripting and ML exploration with **Python**  
+- 🛢️ Building scalable apps using **MongoDB** and **PostgreSQL**  
+- 🐧 Living the **Linux** terminal life
+
+I love turning bugs into features and ideas into side-projects.
+
+---
+
+### 🤝 Looking For
+
+- 👨‍💻 **Collaboration** on unique CLI tools, system daemons, or DB-backed apps  
+- 🧠 **Mentorship** in writing clean, maintainable code and system design  
+
+> _“Code isn’t just code—it’s a conversation with your future self.”_
+
+---
+
+### 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
+</p>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alphawastaken&show_icons=true&theme=default&hide_title=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphawastaken&layout=compact&langs_count=8&theme=default" height="150" />
+</p>
+
+---
+
+### 🔥 Streak & Trophies
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=alphawastaken&theme=default" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alphawastaken&theme=flat&no-bg=true&margin-w=10" height="150" />
+</p>
+
+---
+
+### 🐍 Snake Game of Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alphawastaken/Alphawastaken/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alphawastaken/Alphawastaken/output/github-snake.svg" />
+    <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/Alphawastaken/Alphawastaken/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
