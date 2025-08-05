@@ -43,7 +43,7 @@
 
 ---
 
----
+
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
@@ -55,6 +55,7 @@
   <img src="https://streak-stats.demolab.com/?user=alphawastaken&theme=default" height="150" alt="GitHub streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=alphawastaken&theme=flat&no-bg=true&margin-w=10" height="150" alt="Trophies" />
 </p>
+
 ---
 
 ### 🐍 Snake Game of Contributions
