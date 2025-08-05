@@ -21,18 +21,12 @@
 - 🐍 **Python**: Scripting, automation, and machine learning prototypes.
 - 🛢️ **Databases**: Designing scalable apps with **MongoDB** and **PostgreSQL**.
 - 🐧 **Linux**: Love the terminal life and open-source ecosystems.
-
-I enjoy turning bugs into features, ideas into side-projects, and every problem into an opportunity to learn.
-
 ---
 
 ### 🤝 Looking For
 
 - 👨‍💻 **Collaboration** on unique CLI tools, system daemons, or DB-driven apps.
 - 🧠 **Mentorship** in writing clean, maintainable code and system design.
-
-> _“Code isn’t just code—it’s a conversation with your future self.”_
-
 ---
 
 ### 🧰 Tech Toolbox
@@ -60,13 +54,6 @@ I enjoy turning bugs into features, ideas into side-projects, and every problem 
   <img src="https://streak-stats.demolab.com/?user=alphawastaken&theme=default" height="150" alt="GitHub streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=alphawastaken&theme=flat&no-bg=true&margin-w=10" height="150" alt="Trophies" />
 </p>
-
----
-
-### 😂 Dev Joke of the Day
-
-[![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/ABSphreak/readme-jokes)
-
 ---
 
 ### 🐍 Snake Game of Contributions
