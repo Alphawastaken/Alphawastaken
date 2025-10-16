@@ -12,12 +12,21 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="animation" width="400"/>
 </p>
 
-### 🧠 About Me
+<img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
+
+<h3 align="center">🧠 About Me</h3>
+
 <p align="center">
   <a href="https://github.com/alphawastaken">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=🎓+Undergrad+at+the+University+of+Athens;🔧+Passionate+about+C+and+Systems+Programming;🐍+Expert+in+Python+for+Scripting+and+ML;🐧+Linux+Enthusiast+%26+Open-Source+Advocate" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=🎓+Undergrad+at+the+University+of+Athens;🔧+Passionate+about+C+and+Systems+Programming;🐍+Expert+in+Python+for+Scripting+and+ML;🐧+Linux+Enthusiast+%26+Open-Source+Advocate"
+      alt="Typing SVG"
+    />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
+
 
 ### 🧰 Tech Stack
 <p align="center">
@@ -36,5 +45,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alphawastaken&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="150" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphawastaken&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top languages"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=alphawastaken&theme=tokyonight&hide_border=true" height="150" alt="GitHub streak stats"/>
 </p>
