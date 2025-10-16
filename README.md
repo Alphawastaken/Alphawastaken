@@ -3,21 +3,17 @@
 </p>
 
 <p align="center">
+  <em>Undergrad @ <b>University of Athens</b> | Low-level C, Python scripting, and Open Source.</em>
+</p>
+
+<p align="center">
   <a href="https://alphawastaken.github.io/"><img src="https://img.shields.io/badge/🌐-Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Website"/></a>
   <a href="https://github.com/alphawastaken"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
-<details>
-  <summary><b>⚡ About Me &amp; Tech Stack</b></summary>
-  <br/>
-  
-  - 🎓 Undergrad at the **University of Athens**
-  - 🔧 Passionate about **C** for low-level & systems programming
-  - 🐍 Strong background in **Python** for scripting & ML
-  - 🐧 Linux enthusiast and open-source supporter
-  
-  <p align="center">
+### 🧰 Tech I Use
+<p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -29,14 +25,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  </p>
-</details>
+</p>
 
-<details>
-  <summary><b>📊 My GitHub Stats</b></summary>
-  <br/>
-  <p align="center">
+---
+
+### 📈 My Activity
+
+<p align="center">
+  <img src="https://github.com/alphawastaken/alphawastaken/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alphawastaken&show_icons=true&theme=nord&hide_title=true&count_private=true" height="150" alt="GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphawastaken&layout=compact&langs_count=8&theme=nord" height="150" alt="Top languages" />
-  </p>
-</details>
+</p>
