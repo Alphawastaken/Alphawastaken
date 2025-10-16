@@ -14,12 +14,10 @@
 
 ### 🧠 About Me
 <p align="center">
-  <a href="https://github.com/alphawastaken">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=🎓%20Undergrad%20at%20the%20University%20of%20Athens;🔧%20Passionate%20about%20C%20and%20Systems%20Programming;🐍%20Expert%20in%20Python%20for%20Scripting%20and%20ML;🐧%20Linux%20Enthusiast%20%26%20Open-Source%20Advocate" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/alphawastaken">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=🎓+Undergrad+at+the+University+of+Athens;🔧+Passionate+about+C+and+Systems+Programming;🐍+Expert+in+Python+for+Scripting+and+ML;🐧+Linux+Enthusiast+%26+Open-Source+Advocate" alt="Typing SVG" />
+  </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
 
 ### 🧰 Tech Stack
 <p align="center">
