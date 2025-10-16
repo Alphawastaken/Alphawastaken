@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋+Hello,+I'm+Alpha!&height=140&fontAlign=50&fontAlignY=45&desc=Crafting+Code+with+C,+Python&descAlign=50&descAlignY=75" alt="header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hey,+I'm+Alpha+%F0%9F%91%8B;C+%26+Python+Developer;Linux+Enthusiast" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -8,30 +8,35 @@
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
----
+<details>
+  <summary><b>⚡ About Me &amp; Tech Stack</b></summary>
+  <br/>
+  
+  - 🎓 Undergrad at the **University of Athens**
+  - 🔧 Passionate about **C** for low-level & systems programming
+  - 🐍 Strong background in **Python** for scripting & ML
+  - 🐧 Linux enthusiast and open-source supporter
+  
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+    &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  </p>
+</details>
 
-### 🧠 About Me
-- 🎓 Undergrad at **University of Athens**
-- 🔧 Passion for **C** (low-level & systems programming)
-- 🐍 Strong background in **Python** (scripting, ML prototypes)
-- 🐧 Linux enthusiast, open-source supporter
-
----
-
-### 🧰 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphawastaken&show_icons=true&theme=default&hide_title=true&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphawastaken&layout=compact&langs_count=8&theme=default" height="150" alt="Top languages" />
-</p>
+<details>
+  <summary><b>📊 My GitHub Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alphawastaken&show_icons=true&theme=nord&hide_title=true&count_private=true" height="150" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphawastaken&layout=compact&langs_count=8&theme=nord" height="150" alt="Top languages" />
+  </p>
+</details>
