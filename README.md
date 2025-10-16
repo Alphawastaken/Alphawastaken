@@ -19,8 +19,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834429-61bce380-a425-11eb-8609-21d87cf80599.gif" alt="divider" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
