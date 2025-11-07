@@ -1,6 +1,5 @@
 <p align="center">
-  <h1 align="center">👋 Hello, I'm Vaios!</h1>
-  <h3 align="center">AI & Machine Learning Developer</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,+I'm+Vaios!&height=140&fontAlign=50&fontAlignY=45&desc=AI+%26+Machine+Learning+Developer&descAlign=50&descAlignY=75" alt="header"/>
 </p>
 
 <p align="center">
