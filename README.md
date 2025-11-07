@@ -1,15 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋+Hello,+I'm+Vaios!&height=140&fontAlign=50&fontAlignY=45&desc=AI+%26+Machine+Learning+Developer&descAlign=50&descAlignY=75" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,+I'm+Vaios!&height=140&fontAlign=50&fontAlignY=45&desc=AI+%26+Machine+Learning+Developer&descAlign=50&descAlignY=75" alt="header"/>
 </p>
 
 <p align="center">
-  <a href="https://alphawastaken.github.io/"><img src="https://img.shields.io/badge/🌐-Portfolio-blueviolet?style=for-the-badge" alt="Portfolio Website"/></a>
   <a href="https://github.com/alphawastaken"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="mailto:vaios.panagiotoy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="animation" width="400"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
@@ -17,9 +12,9 @@
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-  <a href="https://github.com/Vaios-Panagiotou">
+  <a href="https://github.com/alphawastaken">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=🎓+Computer+Science+Undergrad+at+University+of+Athens;🤖+Passionate+about+AI+and+Machine+Learning;🧠+Expert+in+NLP+and+Sentiment+Analysis;🐍+Strong+Python+Developer+with+C%2FC%2B%2B+Skills"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad+at+University+of+Athens;Passionate+about+AI+and+Machine+Learning;Expert+in+NLP+and+Sentiment+Analysis;Strong+Python+Developer+with+C%2FC%2B%2B+Skills"
       alt="Typing SVG"
     />
   </a>
@@ -43,20 +38,17 @@
 <img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
 
 ### 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/Alphawastaken/berkeley-ai-pacman-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphawastaken&repo=berkeley-ai-pacman-projects&theme=tokyonight&show_owner=true" alt="Pacman AI"/>
-  </a>
-  <a href="https://github.com/Alphawastaken/sentiment-nlp-deep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphawastaken&repo=sentiment-nlp-deep&theme=tokyonight&show_owner=true" alt="NLP Sentiment"/>
-  </a>
-  <a href="https://github.com/Alphawastaken/tweet-sentiment-classifiers-bert-distilbert">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphawastaken&repo=tweet-sentiment-classifiers-bert-distilbert&theme=tokyonight&show_owner=true" alt="BERT Sentiment"/>
-  </a>
-  <a href="https://github.com/Alphawastaken/c-code-formatter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alphawastaken&repo=c-code-formatter&theme=tokyonight&show_owner=true" alt="C Formatter"/>
-  </a>
-</p>
+
+#### 🤖 AI & Machine Learning
+- **[Berkeley AI Pacman](https://github.com/Alphawastaken/berkeley-ai-pacman-projects)** - AI algorithms for Pacman game (search, multi-agent, reinforcement learning)
+- **[NLP Sentiment Analysis](https://github.com/Alphawastaken/sentiment-nlp-deep)** - Deep learning approaches for sentiment classification
+- **[BERT Sentiment Classifiers](https://github.com/Alphawastaken/tweet-sentiment-classifiers-bert-distilbert)** - Transformer models for tweet sentiment analysis
+- **[Word2Vec Sentiment](https://github.com/Alphawastaken/word2vec-ffnn-sentiment-nlp)** - Word embeddings with neural networks for NLP
+
+#### 💻 Systems & Algorithms
+- **[C Code Formatter](https://github.com/Alphawastaken/c-code-formatter)** - C application for formatting and beautifying source code
+- **[Robot Coins](https://github.com/Alphawastaken/robot-coins)** - Algorithmic solution for robot coin collection problem
+- **[MIPS Study Pack](https://github.com/Alphawastaken/Mips-study-pack)** - Assembly language and computer architecture studies
 
 <img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
 
@@ -64,5 +56,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alphawastaken&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="150" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphawastaken&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top languages"/>
-  <br/>
 </p>
