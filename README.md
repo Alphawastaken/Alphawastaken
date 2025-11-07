@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,+I'm+Vaios!&height=140&fontAlign=50&fontAlignY=45&desc=AI+%26+Machine+Learning+Developer&descAlign=50&descAlignY=75" alt="header"/>
+  <h1 align="center">👋 Hello, I'm Vaios!</h1>
+  <h3 align="center">AI & Machine Learning Developer</h3>
 </p>
 
 <p align="center">
@@ -12,12 +13,10 @@
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-  <a href="https://github.com/alphawastaken">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad+at+University+of+Athens;Passionate+about+AI+and+Machine+Learning;Expert+in+NLP+and+Sentiment+Analysis;Strong+Python+Developer+with+C%2FC%2B%2B+Skills"
-      alt="Typing SVG"
-    />
-  </a>
+  Computer Science Student at University of Athens<br>
+  Passionate about AI and Machine Learning<br>
+  Expert in NLP and Sentiment Analysis<br>
+  Strong Python Developer with C/C++ Skills
 </p>
 
 <img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
