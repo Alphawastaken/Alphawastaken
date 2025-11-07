@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,+I'm+Vaios!&height=140&fontAlign=50&fontAlignY=45&desc=AI+%26+Machine+Learning+Developer&descAlign=50&descAlignY=75" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello,+I'm+Vaios!&amp;height=140&amp;fontAlign=50&amp;fontAlignY=45&amp;desc=AI+%26+Machine+Learning+Developer&amp;descAlign=50&amp;descAlignY=75" alt="header"/>
 </p>
 
 <p align="center">
@@ -58,6 +58,4 @@
 
 ### 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphawastaken&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphawastaken&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top languages"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=alphawastaken&show_icons=true&theme=tokyonight&count_private=true&hide_b_
