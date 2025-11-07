@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋+Hello,+I'm+Alpha!&height=140&fontAlign=50&fontAlignY=45&desc=Crafting+Code+with+C,+Python&descAlign=50&descAlignY=75" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋+Hello,+I'm+Vaios!&height=140&fontAlign=50&fontAlignY=45&desc=Crafting+Code+with+C,+Python&descAlign=50&descAlignY=75" alt="header"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-  <a href="https://github.com/alphawastaken">
+  <a href="https://github.com/Vaios-Panagiotou">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=🎓+Undergrad+at+the+University+of+Athens;🔧+Passionate+about+C+and+Systems+Programming;🐍+Expert+in+Python+for+Scripting+and+ML;🐧+Linux+Enthusiast+%26+Open-Source+Advocate"
       alt="Typing SVG"
