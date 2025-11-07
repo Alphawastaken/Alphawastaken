@@ -8,15 +8,21 @@
   <a href="mailto:vaios.panagiotoy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="animation" width="400"/>
+</p>
+
 <img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
 
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-  Computer Science Student at University of Athens<br>
-  Passionate about AI and Machine Learning<br>
-  Expert in NLP and Sentiment Analysis<br>
-  Strong Python Developer with C/C++ Skills
+  <a href="https://github.com/alphawastaken">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+University+of+Athens;Passionate+about+AI+and+Machine+Learning;Experienced+in+NLP+and+Sentiment+Analysis;Strong+Python+Developer+with+C%2FC%2B%2B+Skills"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/i-am-a-developer-now/i-am-a-developer-now/main/resources/images/rainbow_bar.gif" alt="divider" width="100%"/>
