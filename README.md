@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/github.svg" alt="test" height="100"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F79B43&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Vaios!;AI+%26+Machine+Learning+Developer" alt="Typing SVG" />
 </p>
+
 
 
 <p align="center">
