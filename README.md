@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F79B43&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Vaios!;AI+%26+Machine+Learning+Developer" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Hello-I'm%20Vaios!-brightgreen?style=for-the-badge" alt="Hello badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning%20Developer-blueviolet?style=for-the-badge" alt="AI badge"/>
 </p>
 
 
