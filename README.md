@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&text=Hello%2C%20I%27m%20Vaios%21&fontAlign=50&fontAlignY=45&desc=AI%20%26%20Machine%20Learning%20Developer&descAlign=50&descAlignY=75" alt="header"/>
+  <img src="https://github.com/edent/SuperTinyIcons/raw/master/images/svg/github.svg" alt="test" height="100"/>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/alphawastaken"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
